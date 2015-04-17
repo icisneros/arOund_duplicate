@@ -10,18 +10,6 @@ Ivan Cisneros
 
 
 
-****** Twitter Credentials ******
-
-email: arOund.CS51@gmail.com
-account: arOundCS51
-password: crosscheck
-
-Consumer Key: ze1XooiXjEabSZNB3gJwx2YEP
-Consumer Secret: U6BDt9JwBPwtOCiv92Ldkb04CORTf92ANALDchwNVgycNiXH66
-Access Token: 2450164826-lCbC1YRRt1rWIUy2DiLMWyBhhn34hQrjp0XwpHN
-Access Token Secret: 0fNxFzxCXxmX4DFb9nVtWUbTOaVxkdADUSxlM0dVCbix1
-
-
 *****************************************
 *										*
 *		Compiling/Running the code 		*
