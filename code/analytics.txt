@@ -1,0 +1,42 @@
+For sport: 
+
+Total # of tweets tested: 2062
+
+weather: 61
+sport: 1957
+finance: 44
+Cannot Categorize Tweet.: 21
+
+Percentage of non categorized: 1%
+Accuracy Percentage: 96%
+
+
+
+For weather: 
+
+Total # of tweets tested: 1936
+
+weather: 1730
+sport: 147
+finance: 59
+Cannot Categorize Tweet.: 5
+
+Percentage of non categorized: 0%
+Accuracy Percentage: 90%
+
+
+
+For finance: 
+
+Total # of tweets tested: 2007
+
+weather: 49
+sport: 241
+finance: 1717
+Cannot Categorize Tweet.: 2
+
+Percentage of non categorized: 0%
+Accuracy Percentage: 86%
+
+
+

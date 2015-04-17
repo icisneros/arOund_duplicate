@@ -1,0 +1,10 @@
+24252078.@MdWeather
+19612331.@TampaBayWeather
+313537605.@twc_hurricane
+116559622.@TWCBreaking
+127997108.@twcspacewx
+15779216.@usatodayweather
+58798341.@WBKO_Weather
+50010418.@wbzweather
+20521159.@wfaaweathertoo
+18870078.@abc13weather
